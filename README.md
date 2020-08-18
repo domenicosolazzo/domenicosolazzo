@@ -2,7 +2,21 @@
 
 
 <h2>My name is <bold>Domenico</bold> and welcome to my coding space!</h2>
-
+<a href="https://www.youtube.com/c/domenicosolazzo">
+  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
+</a>
+<a href="https://www.instagram.com/domenicosolazzo">
+  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://www.linkedin.com/in/solazzo">
+  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://twitter.com/domenicosolazzo">
+  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.facebook.com/domenicosolazzo.labs">
+  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
 
 <br />
 <br />
