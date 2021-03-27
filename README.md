@@ -22,7 +22,7 @@
 <br />
 This is the place where I code stuff and break things :rofl:
 
-- 🔭 I’m currently working as Tech Lead :wink:
+- 🔭 I’m currently working as Techical Team Lead :wink:
 - 🌱 I’m currently learning Kotlin, ML, AWS and Leadership
 - 💬 Ask me anything related to Software Development
 - 📫 How to reach me: [@domenicosolazzo](https://twitter.com/domenicosolazzo)
