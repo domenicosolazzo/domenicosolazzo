@@ -23,7 +23,7 @@
 This is the place where I code stuff and break things :rofl:
 
 - 🔭 I’m currently working as Techical Team Lead :wink:
-- 🌱 I’m currently learning Java, Kubernetes, Leadership and how to build High-Performant Teams
+- 🌱 I’m currently learning Java, Tailwind, Kubernetes, Leadership and how to build High-Performant Teams
 - 💬 Ask me anything related to Software Development
 - 📫 How to reach me: [@domenicosolazzo](https://twitter.com/domenicosolazzo)
 - ⚡ Fun fact: I :heart: to cook!
