@@ -22,7 +22,7 @@
 <br />
 This is the place where I code stuff and break things :rofl:
 
-- 🔭 I’m currently working as Technical Team Lead :wink:
+- 🔭 I’m currently working as Engineering Manager :wink:
 - 🌱 I’m currently learning Java, Tailwind, Kubernetes, Leadership and how to build High-Performant Teams
 - 💬 Ask me anything related to Software Development
 - 📫 How to reach me: [@domenicosolazzo](https://twitter.com/domenicosolazzo)
