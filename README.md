@@ -6,16 +6,16 @@
   <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/40e4ae6aa6f71637f85236a7c669ca4a030f9352/images/youtube.png" />
 </a>
 <a href="https://www.instagram.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/solazzo">
-  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
 </a>
 <a href="https://twitter.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
 </a>
 <a href="https://www.facebook.com/domenicosolazzo.labs">
-  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/facebook.png" />
 </a>
 
 <br />
@@ -60,19 +60,19 @@ This is the place where I code stuff and break things :rofl:
 
 <h2>🚀 Where you can find me</h2>
 <a href="https://www.youtube.com/c/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
+  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/40e4ae6aa6f71637f85236a7c669ca4a030f9352/images/youtube.png" />
 </a>
 <a href="https://www.instagram.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/solazzo">
-  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
 </a>
 <a href="https://twitter.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
 </a>
 <a href="https://www.facebook.com/domenicosolazzo.labs">
-  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/facebook.png" />
 </a>
 
 <br />
