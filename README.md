@@ -3,7 +3,7 @@
 
 <h2>My name is <bold>Domenico</bold> and welcome to my coding space!</h2>
 <a href="https://www.youtube.com/c/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://image.flaticon.com/icons/svg/725/725300.svg" />
+  <img align="left" alt="domenicosolazzo's YouTube" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/40e4ae6aa6f71637f85236a7c669ca4a030f9352/images/youtube.png" />
 </a>
 <a href="https://www.instagram.com/domenicosolazzo">
   <img align="left" alt="domenicosolazzo's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
