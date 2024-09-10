@@ -22,10 +22,9 @@
 <br />
 This is the place where I code stuff and break things :rofl:
 
-- 🔭 I’m currently working as Engineering Manager :wink:
-- 🌱 I’m currently learning Java, Tailwind, Kubernetes, Leadership and how to build High-Performant Teams
-- 💬 Ask me anything related to Software Development
-- 📫 How to reach me: [@domenicosolazzo](https://twitter.com/domenicosolazzo)
+- 🔭 I’m currently working as Senior Engineering Manager:wink:
+- 🌱 I’m currently learning Deep Learning, Python, Leadership and how to build High-Performant Teams
+- 📫 How to reach me: [@domenicosolazzo](https://x.com/domenicosolazzo)
 - ⚡ Fun fact: I :heart: to cook!
 
 <img src="https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif">
@@ -68,8 +67,8 @@ This is the place where I code stuff and break things :rofl:
 <a href="https://www.linkedin.com/in/solazzo">
   <img align="left" alt="domenicosolazzo's LinkdeIN" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/linkedin.png" />
 </a>
-<a href="https://twitter.com/domenicosolazzo">
-  <img align="left" alt="domenicosolazzo | Twitter" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
+<a href="https://x.com/domenicosolazzo">
+  <img align="left" alt="domenicosolazzo |X" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/twitter.png" />
 </a>
 <a href="https://www.facebook.com/domenicosolazzo.labs">
   <img align="left" alt="domenicosolazzo's Facebook" width="30px" src="https://github.com/domenicosolazzo/domenicosolazzo/blob/5c3b0f987b5e23be508a11f1f3986d3c9cfd9ca4/images/facebook.png" />
