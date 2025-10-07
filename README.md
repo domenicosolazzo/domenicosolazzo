@@ -3,8 +3,6 @@
 
 <h2>My name is <bold>Domenico</bold> and welcome to my coding space!</h2>
 
-<br />
-<br />
 This is the place where I code stuff and break things :rofl:
 
 - 🔭 I’m currently working as Senior Engineering Manager:wink:
