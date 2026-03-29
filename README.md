@@ -31,11 +31,4 @@ This is the place where I code stuff and break things
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-<h2>Stats</h2>
-<table>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=domenicosolazzo&show_icons=true&count_private=true"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicosolazzo&layout=compact&hide=perl,c"</td>
-    </tr>
-</table>
 <br />
