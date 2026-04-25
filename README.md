@@ -5,7 +5,7 @@
 
 This is the place where I code stuff and break things
 
-- 🔭 I’m currently working as Senior Engineering Manager:wink:
+- 🔭 I’m currently working as Senior Engineering Manager
 - 🌱 I’m currently learning Deep Learning, Python, Leadership and how to build High-Performant Teams
 - 📫 How to reach me: [@domenicosolazzo](https://x.com/domenicosolazzo)
 - ⚡ Fun fact: I :heart: to cook!
